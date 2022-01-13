@@ -1,1 +1,3 @@
 http://medicaldecathlon.com/
+https://monai.io/
+https://www.kaggle.com/
