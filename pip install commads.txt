@@ -1,0 +1,3 @@
+pip install monai
+
+pip install dicom2nifti
