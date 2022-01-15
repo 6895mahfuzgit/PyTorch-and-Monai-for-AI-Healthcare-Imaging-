@@ -9,8 +9,8 @@ import shutil
 import os
 
 
-in_path=r'C:\Users\mahfu\Desktop\Codes\dicom_files\labels'
-out_path=r'C:\Users\mahfu\Desktop\Codes\dicom_groups\labels'
+in_path=r'C:\Users\mahfu\Desktop\Codes\dicom_files\images'
+out_path=r'C:\Users\mahfu\Desktop\Codes\dicom_groups\images'
 
 # patient_list=glob(in_path+'/*')
 # print(patient_list[0])
